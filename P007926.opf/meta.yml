@@ -1,15 +1,16 @@
-id: opecha:P007926
+id: P007926
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W687
   title: རྩིས་གཞུང་པད་དཀར་ཞལ་ལུང་།
-  volume:
+  author: ''
+  volumes:
     efb3d5c6bb0e48ae9d00f84c983eb3e5:
       image_group_id: I1KG22097
       title: Volume 1 of rtsis gzhung pad dkar zhal lung
       volume_number: 1
       total_pages: 860
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: རྩིས་གཞུང་པད་དཀར་ཞལ་ལུང་།
   author: ''
